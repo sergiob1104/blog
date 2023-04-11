@@ -3,6 +3,7 @@ h1{
     text-align: center;
     background-color: black;
     height: 60px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 div{
@@ -21,4 +22,5 @@ aside{
 }
 p{
     font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
 }
